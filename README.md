@@ -1,9 +1,9 @@
 Shopify
 =======
-$ mkdir ~/Hello-World
+$ mkdir ~/Shopify
 # Creates a directory for your project called "Hello-World" in your user directory
 
-cd ~/Hello-World
+cd ~/Shopify
 # Changes the current working directory to your newly created directory
 
 git init
